@@ -11,3 +11,40 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+.carPanel {
+  display: flex;
+  align-items: center;
+  width: 500px;
+  height: 200px;
+  background-color: #FF0000;
+  margin: 20px;
+}
+
+.panelElement {
+  display: flex;
+  flex: 1;
+  align-items: center;
+  justify-content: center;
+}
+
+.carList {
+  display: flex;
+  justify-content: center;
+}
+
+.horizontalCardRightIcons {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-orient: vertical;
+  -webkit-box-direction: normal;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.material-icons:hover {
+  cursor:pointer;
+}
