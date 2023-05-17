@@ -7,14 +7,14 @@ interface IPanelMap {
     position: number[]
 }
 
-export const PanelMap: React.FC<IPanelMap> = ({ position, mapHeight, mapWidth}) => {
+export const PanelMap: React.FC<IPanelMap> = ({ position, mapHeight, mapWidth }) => {
     return (
         <YMaps>
             <Map width={mapWidth + "px"} height={mapHeight} defaultState={{ center: position, zoom: 15 }} >
-                <Placemark geometry={position}/>
+                <Placemark geometry={position} />
             </Map>
         </YMaps>
     );
 };
 
-export {}
+export { }

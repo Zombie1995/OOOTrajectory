@@ -7,7 +7,7 @@ import { CarPage } from './components/CarPage';
 const App: React.FC = () => {
   return (
     <Provider store={store}>
-      <CarPage/>
+      <CarPage />
     </Provider>
   );
 }
