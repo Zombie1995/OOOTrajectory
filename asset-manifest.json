@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/OOOTrajectory/static/css/main.3e6fdadd.css",
+    "main.js": "/OOOTrajectory/static/js/main.e9aac997.js",
+    "static/js/787.33ee8c31.chunk.js": "/OOOTrajectory/static/js/787.33ee8c31.chunk.js",
+    "index.html": "/OOOTrajectory/index.html",
+    "main.3e6fdadd.css.map": "/OOOTrajectory/static/css/main.3e6fdadd.css.map",
+    "main.e9aac997.js.map": "/OOOTrajectory/static/js/main.e9aac997.js.map",
+    "787.33ee8c31.chunk.js.map": "/OOOTrajectory/static/js/787.33ee8c31.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e6fdadd.css",
+    "static/js/main.e9aac997.js"
+  ]
+}
